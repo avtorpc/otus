@@ -6,3 +6,5 @@
  */
 
 rootProject.name = 'otus'
+include 'hw1-gradle'
+
