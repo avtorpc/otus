@@ -6,8 +6,8 @@ plugins {
 sourceCompatibility = JavaVersion.VERSION_17
 targetCompatibility = JavaVersion.VERSION_17
 
-//group = 'org.example'
-//version = 'unspecified'
+group = 'org.example'
+version = 'unspecified'
 
 repositories {
     mavenCentral()
